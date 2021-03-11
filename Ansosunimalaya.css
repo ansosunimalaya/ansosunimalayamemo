@@ -1,0 +1,40 @@
+body {
+	background-color: #ffffff;
+
+}
+.background {
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	margin-left: 00px;
+	border: 20px #ffffff;
+	background-color:  #ffffff;
+}
+.secondbg {
+	margin-bottom: 100px;
+	margin-right: 60px;
+	margin-left: 60px;
+	background-color: #ffffff;
+}
+
+h1	{
+	font-family: Orator Std;
+	margin-bottom: 30px;
+	color: #ff99ff;
+	text-align: center;
+
+}
+
+.intro {
+	font-family: Lucida Calligraphy;
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+
+p {
+	font-family: Calibri;
+	color: black
+	margin-right: 65px;
+	margin-left: 65px;
+}
