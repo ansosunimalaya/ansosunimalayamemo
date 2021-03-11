@@ -1,15 +1,5 @@
 # ansosunimalayamemo
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>saraasalimi</title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.1">
-  <style type="text/css">
-    span.s1 {font-kerning: none}
-  </style>
+
 </head>
 <body>
 <h1 style="margin: 0.0px 0.0px 30.0px 0.0px; text-align: center; font: 24.0px Times; color: #9b2c03; -webkit-text-stroke: #fc7eff"><span class="s1"><b>ANSOS Uni Malaya</b></span></h1>
